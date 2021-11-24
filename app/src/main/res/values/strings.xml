@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">19090075-Login</string>
+    <string name="icon">Icon</string>
+    <string name="silahkan_masukkan_nama_dan_nim">Masukkan Nama dan NIM</string>
+    <string name="login">Login</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+</resources>
